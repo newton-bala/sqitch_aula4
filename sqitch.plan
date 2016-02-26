@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=escola
+%uri=https://github.com/newton-bala/sqitch_aula4.git
+
+schema_escola 2016-02-26T14:13:08Z NEWTON <douglas.silva@armazemparaiba.com.br> # Add schema for escola
+aluno [schema_escola] 2016-02-26T14:47:05Z NEWTON <douglas.silva@armazemparaiba.com.br> # Cria tabela de alunos
